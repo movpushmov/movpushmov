@@ -1,6 +1,8 @@
-### Hi there, I'm Edward! 👋
+### Hi there, I'm Edward, Middle+ Front-End engineer (React)! 👋
 
-- 🔭 I’m currently working on [Budget Control](https://github.com/movpushmov/Budget-Control)
+- 🔭 I’m currently working on:
+  - [Budget Control](https://github.com/movpushmov/Budget-Control) - App, which can help to control your budget.
+  - [Windows UI React](https://github.com/movpushmov/winui-react) - React UI Library, which implements Windows UI (Windows 11) Design.
 - How to reach me:
   - [VK](https://vk.com/movpushmov)
   - [Telegram](@movpushmov)

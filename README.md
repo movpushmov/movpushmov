@@ -8,7 +8,6 @@
 - How to reach me:
   - [VK](https://vk.com/movpushmov)
   - [Telegram](https://t.me/movpushmov)
-  - 
 
 - :zap: Personal GitHub stats
 

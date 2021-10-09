@@ -1,4 +1,4 @@
-### Hi there, I'm Edward, Middle+ Front-End engineer (React)! 👋
+### Hi there, I'm Edward, Middle+ Front-End engineer! 👋
 
 - 🔭 I’m currently working on:
   - [Budget Control](https://github.com/movpushmov/Budget-Control) - App, which can help to control your budget.

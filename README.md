@@ -11,8 +11,8 @@
 
 - :zap: Personal GitHub stats
 
-  <img align="left" alt="movpushmov's GitHub stats" src="https://github-readme-stats.asklar.vercel.app/api?username=movpushmov&show_icons=true&hide_border=true" />
-  <img align="left" alt="movpushmov's GitHub repos" src="https://github-readme-stats.asklar.vercel.app/api/top-langs?username=movpushmov&hide_border=true" />
+<img align="left" alt="movpushmov's GitHub stats" src="https://github-readme-stats.asklar.vercel.app/api?username=movpushmov&show_icons=true&hide_border=true" />
+<img align="left" alt="movpushmov's GitHub repos" src="https://github-readme-stats.asklar.vercel.app/api/top-langs?username=movpushmov&hide_border=true" />
 
 
 <img src="https://user-images.githubusercontent.com/49155506/136664698-49d3249c-2ef2-450a-a879-e8ae4a0f13c3.gif"/>

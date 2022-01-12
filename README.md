@@ -4,6 +4,7 @@
   - [Budget Control](https://github.com/movpushmov/Budget-Control) - App, which can help to control your budget.
   - [Windows UI React](https://github.com/movpushmov/winui-react) - React UI Library, which implements Windows UI (Windows 11) Design.
   - [PolitCubes Web-site](https://vk.com/politcubes) - Military-political server in Minecraft.
+  - [MetisEarth](https://www.metisearth.com/) - a second earth; a metaverse on Metis Andromeda, in which real-world geolocations on a sectioned map correspond to user generated virtual environments. These environments can be owned, traded, and in the future, customized.
 
 - How to reach me:
   - [VK](https://vk.com/movpushmov)
